@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samsharma199
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning nextjs
+- 👀 I’m interested in Big Data
+- 🌱 I’m currently learning PySpark
 - 💞️ I’m looking to collaborate on any reputed organization
 - 📫 How to reach me email samkum199@gmail.com
 
