@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samsharma199
+- 👋 Hi, I’m @Sameer Kumar
 - 👀 I’m interested in Big Data
 - 🌱 I’m currently learning PySpark
 - 💞️ I’m looking to collaborate on any reputed organization
